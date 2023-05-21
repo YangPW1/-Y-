@@ -2,7 +2,7 @@
   "open_ai_api_key": "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",
   "model": "gpt-3.5-turbo",
 
-  "proxy":{"http": "http://127.0.0.1:7890", "https": "http://127.0.0.1:7890"},
+  "proxy":{"http": "http://0.0.0.1:7890", "https": "http://0.0.0.1:7890"},
   "single_chat_prefix": [
     "小Y",
     "@小Y"
