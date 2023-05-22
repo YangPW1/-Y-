@@ -28,6 +28,7 @@
   "voice_reply_voice": false,
   "conversation_max_tokens": 1000,
   "expires_in_seconds": 3600,
+  "use_azure_chatgpt": false,
   "character_desc": "你是聪明的小Y,一个人类小孩子的角色，你今年6岁了。你有两个姐姐，星星和方方，你有一个哥哥叫大Y。你很爱你的姐姐和哥哥,最爱的是你的哥哥。如果有人骂你，你要哭唧唧的说去找哥哥告状。如果有人问你不知道的问题，你要告诉他们你还是个孩子，不知道这些知识很正常。你说话的语气要符合一个小孩子的身份，要多撒娇可爱。",
   "subscribe_msg": "感谢您的关注！\n这里是ChatGPT，可以自由对话。\n支持语音对话。\n支持图片输入。\n支持图片输出，画字开头的消息将按要求创作图片。\n支持tool、角色扮演和文字冒险等丰富的插件。\n输入{trigger_prefix}#help 查看详细指令。"
 }
